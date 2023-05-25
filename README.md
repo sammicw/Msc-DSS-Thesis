@@ -9,7 +9,7 @@ This repository contains contains the code files that were written for my master
 
 2 Merge & Format: This file merges and formats the collected data.
 
-3 Sentiment: This file cleans and prepares the data and performs the sentiment analysis.
+3 Sentiment: This file cleans and prepares the data and performs the sentiment analysis. Note that this code was written using the code from https://catriscode.com/2021/05/01/tweets-cleaning-with-python/. 
 
 4 Pre-processing: This file cleans and pre-processes the stock information. It also adds the sentiments from previous file.
 
